@@ -88,6 +88,13 @@
 					"text": "Vezérigazgató tárgyaló",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "01cc"
+				},
+				{
+					"pitch": -19.15,
+					"yaw": -17.81,
+					"type": "info",
+					"text": "Vezérigazgató titkárság",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -271,6 +278,13 @@
 					"text": "Folyosó",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "r2"
+				},
+				{
+					"pitch": -6.85,
+					"yaw": 127.24,
+					"type": "info",
+					"text": "Vállfa, magyar találmány",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -377,6 +391,13 @@
 					"text": "Jogi iroda",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "03b"
+				},
+				{
+					"pitch": -17.74,
+					"yaw": 99.09,
+					"type": "info",
+					"text": "Régi számítógépek, és floppy lemezek",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -438,6 +459,13 @@
 					"text": "Folyosó 6",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "r6"
+				},
+				{
+					"pitch": -11.59,
+					"yaw": 51.21,
+					"type": "info",
+					"text": "Bérmunka, export",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -515,6 +543,13 @@
 					"text": "Folyosó 7",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "r7"
+				},
+				{
+					"pitch": -13.77,
+					"yaw": 32.73,
+					"type": "info",
+					"text": "Kereseti lehetőségek, béren kívüli juttatás, szociális gondoskodás",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -553,6 +588,20 @@
 					"text": "Értékesítési osztály",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "08aa"
+				},
+				{
+					"pitch": -13.14,
+					"yaw": 10.05,
+					"type": "info",
+					"text": "Kulturális munka a Tisza Cipőgyárban, 1950-1989 között",
+					"targetYaw": "sameAzimuth"
+				},
+				{
+					"pitch": -1.11,
+					"yaw": -95.03,
+					"type": "info",
+					"text": "A Művelődési Központ épülete régen és most",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -591,6 +640,13 @@
 					"text": "Kereskedelmi igazgató titkársága",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "09a"
+				},
+				{
+					"pitch": -20.56,
+					"yaw": 1.86,
+					"type": "info",
+					"text": "Kereskedelmi igazgató irodája",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -622,6 +678,13 @@
 					"text": "Szakszervezeti iroda",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "10b"
+				},
+				{
+					"pitch": -39.22,
+					"yaw": 42.63,
+					"type": "info",
+					"text": "Szakszervezeti iroda",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -653,6 +716,13 @@
 					"text": "Szakszervezeti iroda",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "10aa"
+				},
+				{
+					"pitch": -33.52,
+					"yaw": -27.18,
+					"type": "info",
+					"text": "10. AB Szakszervezeti iroda",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -707,6 +777,13 @@
 					"text": "Folyosó 8",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "r8"
+				},
+				{
+					"pitch": -21.84,
+					"yaw": -12.61,
+					"type": "info",
+					"text": "Logós cipők",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -745,6 +822,13 @@
 					"text": "Folyosó",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "f1"
+				},
+				{
+					"pitch": 0.68,
+					"yaw": 147.23,
+					"type": "info",
+					"text": "Ajándék- és reklámtárgyak",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -760,6 +844,13 @@
 					"text": "Folyosó",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "f3"
+				},
+				{
+					"pitch": -5.3,
+					"yaw": 132.3,
+					"type": "info",
+					"text": "’A’-gyár régen és most",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -783,6 +874,13 @@
 					"text": "Folyosó 7",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "r7"
+				},
+				{
+					"pitch": -4.39,
+					"yaw": -179.25,
+					"type": "info",
+					"text": "Sportélet",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -806,6 +904,13 @@
 					"text": "Folyosó 6",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "r6"
+				},
+				{
+					"pitch": -8.56,
+					"yaw": -130.8,
+					"type": "info",
+					"text": "Pénztár",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -829,6 +934,13 @@
 					"text": "Folyosó 6",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "r6"
+				},
+				{
+					"pitch": -2.77,
+					"yaw": -89.63,
+					"type": "info",
+					"text": "Pénztár",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -875,6 +987,13 @@
 					"text": "Oktató / Tanácsterem",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "12a"
+				},
+				{
+					"pitch": 5.61,
+					"yaw": 175.34,
+					"type": "info",
+					"text": "Brigádélet",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -898,6 +1017,13 @@
 					"text": "Oktató / Tanácsterem",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "12a"
+				},
+				{
+					"pitch": 8.51,
+					"yaw": -61.15,
+					"type": "info",
+					"text": "Brigádélet",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -913,6 +1039,13 @@
 					"text": "Folyosó 2",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "r2"
+				},
+				{
+					"pitch": -7.85,
+					"yaw": 128.02,
+					"type": "info",
+					"text": "Újság",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -967,6 +1100,13 @@
 					"text": "Személyzeti osztály",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "14a"
+				},
+				{
+					"pitch": -3.45,
+					"yaw": 34.56,
+					"type": "info",
+					"text": "1989 után",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -1013,6 +1153,13 @@
 					"text": "Oktatási osztály",
 					"targetYaw": "sameAzimuth",
 					"sceneId": "14c"
+				},
+				{
+					"pitch": -4.19,
+					"yaw": -176.59,
+					"type": "info",
+					"text": "A gyár",
+					"targetYaw": "sameAzimuth"
 				}
 			]
 		},
@@ -1055,11 +1202,7 @@
 				}
 			]
 		},
-		"f2": {
-			"title": "Folyosó",
-			"panorama": "f2.jpg",
-			"northOffset": 77.6
-		},
+		"f2": {"title": "Folyosó", "panorama": "f2.jpg", "northOffset": 77.6},
 		"f3": {
 			"title": "Folyosó",
 			"panorama": "f3.jpg",
@@ -1502,12 +1645,9 @@
 				},
 				{
 					"src": "dsc0721.jpg",
-					"label": "Mozaik a lépcsőház első emeletén, benne az átadás évszámával "
+					"label": "Mozaik a lépcsőház első emeletén, benne az átadás évszámával"
 				},
-				{
-					"src": "ebédlő.jpg",
-					"label": "Üzemi ebédlő"
-				},
+				{"src": "ebédlő.jpg", "label": "Üzemi ebédlő"},
 				{
 					"src": "irodaház közeli.jpg",
 					"label": "Irodaház archív felvételeken"
@@ -1529,18 +1669,9 @@
 		{
 			"title": "Bata-kor",
 			"images": [
-				{
-					"src": "4_kep.jpg",
-					"label": "Építkezés: gyár és lakóházak"
-				},
-				{
-					"src": "6_kep.jpg",
-					"label": "Építkezés: gyár és lakóházak"
-				},
-				{
-					"src": "45.jpg",
-					"label": "Építkezés: gyár és lakóházak"
-				},
+				{"src": "4_kep.jpg", "label": "Építkezés: gyár és lakóházak"},
+				{"src": "6_kep.jpg", "label": "Építkezés: gyár és lakóházak"},
+				{"src": "45.jpg", "label": "Építkezés: gyár és lakóházak"},
 				{
 					"src": "bata-térkép.jpg",
 					"label": "A város tervezett alaprajza"
@@ -1571,10 +1702,7 @@
 		{
 			"title": "A Tisza Cipőgyár működése az 1950-60-as években",
 			"images": [
-				{
-					"src": "dsc0954.jpg",
-					"label": "Export számokban"
-				},
+				{"src": "dsc0954.jpg", "label": "Export számokban"},
 				{
 					"src": "dsc0955.jpg",
 					"label": "A keleti export országai, exportadatok."
@@ -1587,10 +1715,7 @@
 					"src": "dsc0962.jpg",
 					"label": "A keleti export országai, exportadatok."
 				},
-				{
-					"src": "dsc0974.jpg",
-					"label": "Export katalógus"
-				},
+				{"src": "dsc0974.jpg", "label": "Export katalógus"},
 				{
 					"src": "dsc0976.jpg",
 					"label": "Létszámadatok részletezve 1959-60."
@@ -1627,11 +1752,256 @@
 			]
 		},
 		{
+			"title": "Vállfa, magyar találmány",
+			"images": [
+				{"src": "dsc0688.jpg", "label": "Vállfa, magyar találmány"},
+				{"src": "dsc0691.jpg", "label": ""}
+			]
+		},
+		{
+			"title": "Régi számítógépek, és floppy lemezek",
+			"images": [
+				{
+					"src": "dsc0861.jpg",
+					"label": "Régi számítógépek, és floppy lemezek"
+				}
+			]
+		},
+		{
 			"title": "Bérmunka, export",
-			"images": []
+			"images": [
+				{
+					"src": "adidas1.jpg",
+					"label": "Utolsó Martfűn készült Adidas modellek"
+				},
+				{
+					"src": "adidas2.jpg",
+					"label": "Utolsó Martfűn készült Adidas modellek"
+				},
+				{
+					"src": "dsc0941.jpg",
+					"label": "Adidas modell, alatta szerződés a Tisza Cipő Rt és az Adidas között 1992. évi feltételekre vonatkozóan."
+				},
+				{
+					"src": "dsc0944.jpg",
+					"label": "Salamander cég plakátjai, dokumentumok az együttműködésről  (05.24)"
+				}
+			]
+		},
+		{
+			"title": "Kereseti lehetőségek, béren kívüli juttatás, szociális gondoskodás",
+			"images": [
+				{
+					"src": "dsc0882.jpg",
+					"label": "kitüntetések, oklevelek, köztük Maczó László egykori vezérigazgató Eötvös Loránd-díjához"
+				},
+				{
+					"src": "dsc0890.jpg",
+					"label": "Lakónyilvántartó könyv a cipőgyári lakásokról, lakásbérleti szerződés (név kitakarható?), fotó: társadalmi munka a sportpályán, emléklapok a munkásévekért"
+				},
+				{
+					"src": "dsc0884.jpg",
+					"label": "A Cserkeszőlői üdülő tervei, oklevél a telkibányai üdülő építésében való közreműködésért, Martfűn építendő ’Cs’ típusú lakóház tervei"
+				},
+				{
+					"src": "dsc0894.jpg",
+					"label": "Néhány éven keresztül a nyugdíjazáskor esedékes Törzsgárda jutalom ’tisza’ feliratos aranygyűrű volt"
+				}
+			]
+		},
+		{
+			"title": "Kulturális munka a Tisza Cipőgyárban, 1950-1989 között",
+			"images": [
+				{
+					"src": "dsc0814.jpg",
+					"label": "Martfűn húzták ki az Ötöslottó számait. Bejegyzés a Művelődési Központ Naplójából"
+				},
+				{
+					"src": "dsc0817.jpg",
+					"label": "Szemezgetés a Művelődési Központ emlékeiből"
+				},
+				{
+					"src": "dsc0820.jpg",
+					"label": "Szemezgetés a Művelődési Központ emlékeiből"
+				},
+				{
+					"src": "dsc0823.jpg",
+					"label": "Szemezgetés a Művelődési Központ emlékeiből"
+				}
+			]
+		},
+		{
+			"title": "Kereskedelmi igazgató irodája",
+			"images": [{"src": "dsc0985.jpg", "label": ""}]
+		},
+		{
+			"title": "Szakszervezeti iroda",
+			"images": [
+				{"src": "dsc0972.jpg", "label": "Munkavédelmi filmek, 16 mm-es"}
+			]
+		},
+		{
+			"title": "10. AB Szakszervezeti iroda",
+			"images": [
+				{
+					"src": "dsc0976.jpg",
+					"label": "Tisza Cipőgyár mintaboltjainak dokumentumaira is ebben az irodában leltünk rá. A képen a zalaegerszegi Tisza Cipő mintabolt látványterve a neon tisza felirattal"
+				}
+			]
+		},
+		{
+			"title": "Logós cipők",
+			"images": [
+				{"src": "dsc0670.jpg", "label": "Kosárlabda cipők"},
+				{"src": "dsc0673.jpg", "label": "Tisza logós edzőcipők"},
+				{"src": "dsc0676.jpg", "label": "Férfi edzőcipők"},
+				{"src": "dsc0678.jpg", "label": "Boxoló cipők"},
+				{"src": "iad_3_2016_20009.jpg", "label": "Cipőkatalógusokból"},
+				{"src": "iad_4-2016.jpg", "label": "Cipőkatalógusokból"}
+			]
+		},
+		{
+			"title": "Ajándék- és reklámtárgyak",
+			"images": [
+				{
+					"src": "dsc0695.jpg",
+					"label": "Kitűzők, matricák, kártyanaptárak, szatyrok, terítők… ízelítő az ajándéktárgyakból, melyek az ikonikus logóval készültek a 70-es, 80-as években.."
+				},
+				{
+					"src": "dsc0696.jpg",
+					"label": "Kitűzők, matricák, kártyanaptárak, szatyrok, terítők… ízelítő az ajándéktárgyakból, melyek az ikonikus logóval készültek a 70-es, 80-as években.."
+				},
+				{
+					"src": "dsc0707.jpg",
+					"label": "Kitűzők, matricák, kártyanaptárak, szatyrok, terítők… ízelítő az ajándéktárgyakból, melyek az ikonikus logóval készültek a 70-es, 80-as években.."
+				}
+			]
+		},
+		{
+			"title": "’A’-gyár régen és most",
+			"images": [
+				{
+					"src": "agyar1.jpg",
+					"label": "Kilátás az 1942-re felépült ’A’-gyárra. Itt dolgozott az aljakör és a tűzöde"
+				},
+				{
+					"src": "agyar2.jpg",
+					"label": "Kilátás az 1942-re felépült ’A’-gyárra. Itt dolgozott az aljakör és a tűzöde"
+				},
+				{
+					"src": "agyar3.jpg",
+					"label": "Kilátás az 1942-re felépült ’A’-gyárra. Itt dolgozott az aljakör és a tűzöde"
+				}
+			]
+		},
+		{
+			"title": "Sportélet",
+			"images": [
+				{
+					"src": "dsc0848.jpg",
+					"label": "Imperial: új márkakísérlet a martfűi sportcipők megújítására"
+				},
+				{
+					"src": "dsc0850.jpg",
+					"label": "A Tisza kiváló minőségű stoplis cipői"
+				},
+				{
+					"src": "dsc0856.jpg",
+					"label": "PBT Vívócipő (magyar márka!), postagalamb sport dokumentumok, Tisza edzőcipő (ezt a típust a Néphadsereg számára is gyártották)"
+				},
+				{"src": "dsc0861-1.jpg", "label": "Folyosói vitrin felirata"}
+			]
+		},
+		{
+			"title": "Pénztár",
+			"images": [
+				{
+					"src": "dsc0983.jpg",
+					"label": "Pénzeszsákok és -kötegelők, riasztós bőrönd pénzszállításhoz"
+				}
+			]
+		},
+		{
+			"title": "Brigádélet",
+			"images": [
+				{
+					"src": "iad_15-2018.jpg",
+					"label": "A számítóközpont Neumann János brigádjának naplóiból"
+				},
+				{"src": "dsc0849.jpg", "label": ""},
+				{"src": "dsc0850.jpg", "label": ""},
+				{"src": "dsc0834.jpg", "label": "Brigádkirándulások"},
+				{
+					"src": "dsc0844.jpg",
+					"label": "Jubileumi brigádkiadványok a Cipőgyár életéről, történeteiről, forrásértékű fotókkal és bejegyzésekkel"
+				},
+				{
+					"src": "dsc0854.jpg",
+					"label": "Madame Curie brigád kitűzései az 1971-es évre"
+				},
+				{
+					"src": "kirándulás1.jpg",
+					"label": "Brigádkirándulás a cipőgyár autóbuszával"
+				}
+			]
+		},
+		{
+			"title": "Újság",
+			"images": [
+				{
+					"src": "dsc0807.jpg",
+					"label": "Cikta újságok 1948-ból és faliújságcikkek 1945-ből. Az 1948 január-februári újság első oldalán Deák Miklós cikke a második világháború martfűi történéseiről"
+				},
+				{
+					"src": "dsc0809.jpg",
+					"label": "Tisza Cipőgyár Dolgozóinak Lapjai, Tisza Cipő Részvénytársaság Lapja"
+				},
+				{
+					"src": "dsc0812.jpg",
+					"label": "Tyereskova, az első női űrhajós martfűi látogatása (1965), Új Tisza logó bemutatása (1993. július 3.)"
+				},
+				{"src": "dsc0813.jpg", "label": "MÁS Újság"}
+			]
+		},
+		{
+			"title": "1989 után",
+			"images": [
+				{"src": "dsc0810.jpg", "label": ""},
+				{
+					"src": "dsc0811.jpg",
+					"label": "Új márka, új logó, új szlogen"
+				},
+				{
+					"src": "dsc0812-1.jpg",
+					"label": "Új márka, új logó, új szlogen"
+				},
+				{"src": "dsc0819.jpg", "label": "A divíziók reklámkatalógusai"}
+			]
+		},
+		{
+			"title": "A gyár",
+			"images": [
+				{"src": "dsc0862.jpg", "label": ""},
+				{"src": "dsc0864.jpg", "label": ""}
+			]
+		},
+		{
+			"title": "A Művelődési Központ épülete régen és most",
+			"images": [
+				{
+					"src": "muvhaz1.jpg",
+					"label": "A Művelődési Központ épülete régen és most"
+				},
+				{
+					"src": "muvhaz2.jpg",
+					"label": "A Művelődési Központ épülete régen és most"
+				},
+				{
+					"src": "muvhaz3.jpg",
+					"label": "A Művelődési Központ épülete régen és most"
+				}
+			]
 		}
 	],
-	"editor": {
-		"currentScene": "02b"
-	}
+	"editor": {"currentScene": "10g"}
 }
